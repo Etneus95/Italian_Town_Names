@@ -10,13 +10,13 @@ To support variety in the selection and to avoid the largest cities being select
 
 Source data: Simplemaps.com (https://simplemaps.com/data/world-cities), licensed under CC BY 4.0.
 
-Many thanks to @chujo for their help.
+Many thanks to **@chujo** for their help.
 
 Licensed under the GNU General Public License version 2.
 
 
 ### More info
 
-@Etneus95 on OpenTTD's Discord (discord.gg/openttd)
+**@Etneus95** on OpenTTD's Discord (discord.gg/openttd)
 
 https://github.com/Etneus95/Italian_Town_Names
