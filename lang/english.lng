@@ -1,0 +1,6 @@
+##grflangid 0x01
+
+# General GRF strings
+STR_GRF_NAME:Italian Town Names
+STR_GRF_DESC:{}{ORANGE}Towns and cities of Italy.{}{}{SILVER}By {YELLOW}Etneus95 and chujo{}{}{}{LTBLUE}December 18, 2024
+STR_OPTIONS:Italian
