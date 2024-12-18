@@ -5,7 +5,7 @@ An enhanced Italian Town Names NewGRF for OpenTTD
 
 This Townname NewGRF features ~1300 real towns and cities of Italy.
 
-Selection probability are based upon the real population of the city.
+Selection probability is based upon the real population of the city.
 
 To support variety in the selection and to avoid the largest cities being selected too frequently, the final weights were obtained by applying a sqrt(x) function to the populations.
 
